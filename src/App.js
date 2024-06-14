@@ -5,7 +5,7 @@ function App() {
     <div className="container mx-auto border">
       <div>
         <div>
-          <img src={logo} alt="logo" />
+          {/* <img src={logo} alt="logo" /> */}
           <h2>LOGO</h2>
         </div>
         <form>
